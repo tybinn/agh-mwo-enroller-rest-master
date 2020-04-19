@@ -58,6 +58,7 @@ public class ParticipantRestController {
 		if (foundParticipant == null) {
 			return new ResponseEntity(HttpStatus.NOT_FOUND);
 		}
+
 		foundParticipant.setPassword(updatedParticipant.getPassword());
 		participantService.update(foundParticipant);
 		return new ResponseEntity<Participant>(foundParticipant, HttpStatus.OK);

@@ -4,7 +4,6 @@
     <list default="true" id="bf7a4e3e-f777-4692-a5aa-0f005146372a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/enroller/controllers/MeetingsRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/enroller/controllers/MeetingsRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/enroller/persistence/MeetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/enroller/persistence/MeetingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -26,5 +26,6 @@ public class MeetingService {
 
 	public Meeting findById(long id){
 		Meeting meeting = (Meeting) session.get(Meeting.class, id);
+		return meeting;
 	}
 }

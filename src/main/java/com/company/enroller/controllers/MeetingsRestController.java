@@ -30,6 +30,6 @@ public class MeetingsRestController {
             return new ResponseEntity(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<Participant>(meeting, HttpStatus.OK);
+        return new ResponseEntity<Meeting>(meeting, HttpStatus.OK);
     }
 }
